@@ -1,4 +1,3 @@
-My Life
 
 Several years ago I contracted a disease which gradually but relentlessly damages both my body and mind.  Because of this, it is unlikely I will be able to produce anything else worthwhile in my life.  So, I decided to post some of the things for which I want to be remembered online.  One of those things is my sudoku program.  Since github is the best place for that to help others, here I am.  But I want all my stuff in one place so I'm adding some of the other things I've written too.  These are not coding related and so don't properly belong here so please forgive me.
 
